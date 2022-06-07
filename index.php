@@ -82,6 +82,8 @@
             }
 
         ?>
+
+
         <!-- END PAGE CONTENT -->
 
         <footer class="footer text-faded text-center py-5">

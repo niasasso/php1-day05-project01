@@ -4,10 +4,12 @@
             <div class="col-xl-9 mx-auto">
                 <div class="cta-inner bg-faded text-center rounded">
                     <h2 class="section-heading mb-4">
-                        <span class="section-heading-upper">Kopi Papua</span>
-                        <span class="section-heading-lower">Kopi Papua Dengan Berbagai Varian</span>
+                        <span class="section-heading-upper">Produk</span>
+                        <span class="section-heading-lower">Kopi Tubruk Papua</span>
                     </h2>
-                    <p class="mb-0">When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest quality ingredients. If you are not satisfied, please let us know and we will do whatever we can to make things right!</p>
+                    <p class="mb-0">Kopi Tubruk Papua
+                    Salah satu produk Highland Roastery yang di Produksi dari Tahun 2021. 
+                    Kopi Tubruk Papua sendiri memakai 100% kopi Papua, dengan berat 15 gr. Dengan beberapa Taste Notes yang bervariasi yaitu Fruity, Chocolate, Spacy, brown sugar, etc. dan Juga dengan “HARGA” yang sangat “TERJANGKAU”.</p>
                 </div>
             </div>
         </div>
